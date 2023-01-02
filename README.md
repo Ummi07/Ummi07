@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br>I'm Ummi.<br>I'm a fresh graduate student in Bachelor of Science (Industrial Mathematics)<br>I'm currently seeking an opportunity in the data analytics field.<br>I'm really interested in business and data analytics.<br><br>
+Hi there,<br>I'm Ummi.<br>I'm a fresh graduate student in Bachelor of Science (Industrial Mathematics)<br>I'm currently seeking an opportunity in the data analytics field.<br>I'm really interested in business and data analysis.<br><br>
 
 
 ## 🌐 Socials:
